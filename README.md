@@ -1,6 +1,6 @@
 Moin 👋
 
-I am a software engineer with a passion for mobile robotics and server development. While Rust, Golang are my favorite languages right now, I also have experience with Swift, C, C++, CUDA, Python, Java, PHP, SQL, and JavaScript. I am currently working on my master's thesis in reinforcement learning for autonomous exploration and will soon finish my computer science degree with a focus on AI.
+I am a software engineer with a passion for mobile robotics and server development. While Rust and Go are my favorite languages right now, I also have experience with Swift, C, C++, CUDA, Python, Java, PHP, SQL, and JavaScript.
 
 ## Robotics
 
