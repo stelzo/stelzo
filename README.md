@@ -1,6 +1,6 @@
 Moin 👋
 
-I am a software engineer with a passion for mobile robotics and server development. While Rust and Go are my favorite languages right now, I also have experience with Swift, C, C++, CUDA, Python, Java, PHP, SQL, and JavaScript.
+I am a computer scientist with a passion for mobile robotics and server development. While Rust and Go are my favorite languages right now, I also have experience with Swift, C, C++, CUDA, Python, Java, PHP, SQL, and JavaScript.
 
 ## Robotics
 
