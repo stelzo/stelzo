@@ -1,10 +1,8 @@
-Moin 👋
-
 I am a computer scientist with a passion for mobile robotics and server development. While Rust and Go are my favorite languages right now, I also have experience with Swift, C, C++, CUDA, Python, Java, PHP, SQL, and JavaScript.
 
 ## Robotics
-
-- -WIP- [jlio](https://github.com/stelzo/jlio) [<a href="https://developer.nvidia.com/cuda-toolkit"><img height=12 align="center" src="images/cudaIcon.png" /></a>]: GPU accelerated LiDAR odometry for the NVIDIA Jetson SoC
+- [ros-dev-setup](https://github.com/stelzo/ros-dev-setup): My development setup for writing ROS 2 nodes with Rust
+- [imu-calib-ros](https://github.com/stelzo/imu-calib-ros) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Minimal ROS2 Package for intrinsic IMU calibration using gravity
 - [ros_pointcloud2](https://github.com/stelzo/ros_pointcloud2) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: safe on-the-fly point cloud message conversions for ROS 1 and ROS 2
 - [cupcl-rs](https://github.com/stelzo/cupcl-rs) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>, <a href="https://developer.nvidia.com/cuda-toolkit"><img height=12 align="center" src="images/cudaIcon.png" /></a>]: Rust bindings for [cuPCL](https://github.com/NVIDIA-AI-IOT/cuPCL) and additional custom GPU filters
 - [cloudfilter](https://github.com/stelzo/cloudfilter) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: A passthrough demo using the ros_pointcloud2 crate and CUDA filters
