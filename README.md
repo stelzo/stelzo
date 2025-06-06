@@ -1,20 +1,18 @@
-I am a computer scientist with a passion for mobile robotics and server development. While Rust and Go are my favorite languages right now, I also have experience with Swift, C, C++, CUDA, Python, Java, PHP, SQL, and JavaScript.
+I am a computer scientist with a passion for mobile robotics and efficiency.
+
+Here are some highlights:
+
+## General
+- [dev](https://github.com/stelzo/dev): My dev environment and dotfiles
+- [ros-dev-setup](https://github.com/stelzo/ros-dev-setup): My ROS dev environment
 
 ## Robotics
-- [ros_pointcloud2](https://github.com/stelzo/ros_pointcloud2) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: safe on-the-fly point cloud message conversions for ROS 1 and ROS 2
+- [minot](https://github.com/uos/minot) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Tool for testing and debugging stateful ROS nodes
+- [ros_pointcloud2](https://github.com/stelzo/ros_pointcloud2) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Safe on-the-fly point cloud message conversions for ROS1 and ROS2
 - [imu-calib-ros](https://github.com/stelzo/imu-calib-ros) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Minimal ROS2 Package for intrinsic IMU calibration using gravity
 - [cupcl-rs](https://github.com/stelzo/cupcl-rs) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>, <a href="https://developer.nvidia.com/cuda-toolkit"><img height=12 align="center" src="images/cudaIcon.png" /></a>]: Rust bindings for [cuPCL](https://github.com/NVIDIA-AI-IOT/cuPCL) and additional custom GPU filters
-- [ros-dev-setup](https://github.com/stelzo/ros-dev-setup): My development setup for writing ROS 2 nodes with Rust
-- [cloudfilter](https://github.com/stelzo/cloudfilter) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: A passthrough demo using the ros_pointcloud2 crate and CUDA filters
-- [flysense-viewer](https://github.com/stelzo/flysense-viewer) [<a href="https://cplusplus.com"><img height=12 align="center" src="images/cppIcon.png" /></a>]: Drone state visualization overlay streamed to HDMI OpenCV ([paper](https://dl.acm.org/doi/abs/10.1145/3579170.3579266))
-- [flysense-jetson-cam](https://github.com/stelzo/flysense-jetson-cam) [<a href="https://cplusplus.com"><img height=12 align="center" src="images/cppIcon.png" /></a>, <a href="https://developer.nvidia.com/cuda-toolkit"><img height=12 align="center" src="images/cudaIcon.png" /></a>]: A simple camera streaming application for the NVIDIA Jetson with GStreamer and OpenCV ([paper](https://dl.acm.org/doi/abs/10.1145/3579170.3579266))
 
-
-## Web
-- [tablecompare.com](https://tablecompare.com) [<a href="https://angular.io"><img height=15 align="center" src="images/angularIcon.png" /></a>, <a href="https://developer.mozilla.org"><img height=15 align="center" src="images/htmlIcon.png" /></a>, <a href="https://developer.mozilla.org"><img height=15 align="center" src="images/cssIcon.png" /></a>, <a href="https://cplusplus.com"><img height=12 align="center" src="images/cppIcon.png" /></a>]: A web app to compare tables with typesafe similarity running in the browser with  WebAssembly
-- [openapi-api-version-print](https://github.com/stelzo/openapi-api-version-print) [<a href="https://go.dev"><img height=8 align="center" src="images/goIcon.png" /></a>]: GitHub action to parse and output the API version of an OpenAPI spec
-
-### dofusdude
+## dofusdude
 A namespace for my tools and APIs helping the [Dofus](https://www.dofus.com) developer community.
 
 - [doduda](https://github.com/dofusdude/doduda) [<a href="https://go.dev"><img height=8 align="center" src="images/goIcon.png" /></a>]: CLI for downloading and unpacking Ankama games and denormalising game databases to usable jsons for use in other apps
