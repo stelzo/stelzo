@@ -7,10 +7,11 @@ Here are some highlights:
 - [ros-dev-setup](https://github.com/stelzo/ros-dev-setup): My ROS dev environment
 
 ## Robotics
+- [marina](https://github.com/uos/marina) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: The missing ROS 2 bag registry
+- [ratslang](https://github.com/uos/marina) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Configuration language for humans working with robots
 - [minot](https://github.com/uos/minot) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Tool for testing and debugging stateful ROS nodes
 - [ros_pointcloud2](https://github.com/stelzo/ros_pointcloud2) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Safe on-the-fly point cloud message conversions for ROS1 and ROS2
 - [imu-calib-ros](https://github.com/stelzo/imu-calib-ros) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>]: Minimal ROS2 Package for intrinsic IMU calibration using gravity
-- [cupcl-rs](https://github.com/stelzo/cupcl-rs) [<a href="https://www.rust-lang.org"><img height=14 align="center" src="images/rustIcon.png" /></a>, <a href="https://developer.nvidia.com/cuda-toolkit"><img height=12 align="center" src="images/cudaIcon.png" /></a>]: Rust bindings for [cuPCL](https://github.com/NVIDIA-AI-IOT/cuPCL) and additional custom GPU filters
 
 ## dofusdude
 A namespace for my tools and APIs helping the [Dofus](https://www.dofus.com) developer community.
